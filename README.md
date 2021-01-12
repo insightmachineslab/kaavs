@@ -24,7 +24,7 @@ This should be relativelly easy if the user makes sure the KAAVS device is visib
 ## Device
 
 The device is very simple. It's built around ATTiny13 microcontroller.  
-![Device schema](https://github.com/insightmachineslab/kaavs/schema.png "Device schema")
+![Device schema](https://github.com/insightmachineslab/kaavs/blob/main/schema.png "Device schema")
 The controller generates a tone using an Arduino library. It is powered by a 3V coin battery.
 A button at the top of the device closes the circuit and turns on the ATTiny13 and two red LEDs.
 A 3.5 mm audio socket, at the bottom of the device, allows connecting to a recording device with an audio cable.
