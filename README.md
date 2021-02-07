@@ -20,6 +20,7 @@ The device should be used at the start of every scene in a way that it's activat
 ## Device
 
 The device is very simple. It's built around ATTiny13 microcontroller.  
+
 ![Device schema](https://github.com/insightmachineslab/kaavs/blob/main/schema.png "Device schema")
 
 The controller generates a tone using an Arduino library. It is powered by a 3V coin battery.
